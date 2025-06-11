@@ -19,7 +19,7 @@ class MiDrawer extends StatelessWidget {
               children: [
                 const Text("Menú de Ejercicios"),
                 Expanded(
-                  child: Container(), // Eliminada la imagen
+                  child: Container(), 
                 ),
               ],
             ),
