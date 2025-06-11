@@ -1,3 +1,13 @@
+//Calculadora de interés simple
+//Crea una aplicación para calcular el monto final de una inversión con interés simple.
+//Requisitos:
+//• Campos para: Capital inicial, Tasa de interés anual (%), Tiempo en años
+//Fórmula: MontoFinal = CapitalInicial × (1 + (TasaInterés × Tiempo /
+//100))
+//• Mostrar desglose: Capital inicial, Interés generado y Monto final
+//• Validar que todos los valores sean numéricos y positivos
+//• Botón para limpiar los campos y realizar nuevo cálculo
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:t2_ejercicios04_drawer/navigation/Drawer.dart';
