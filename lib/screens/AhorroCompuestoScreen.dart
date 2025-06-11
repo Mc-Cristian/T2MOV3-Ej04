@@ -1,3 +1,13 @@
+//3.-Simulador de ahorro mensual
+//Implementa una aplicación que calcule el ahorro acumulado con depósitos
+//mensuales.
+//Requisitos:
+//• Campos para: Ahorro mensual, Cantidad de meses
+//• Fórmula básica (sin interés): AhorroTotal = AhorroMensual × CantidadMeses
+//• Mostrar el total ahorrado y el detalle mes por mes
+//• Opcional: Agregar campo para tasa de interés mensual y modificar la fórmula
+//• Validar que los valores ingresados sean números positivos
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart'; 
 import 'package:t2_ejercicios04_drawer/navigation/Drawer.dart';
