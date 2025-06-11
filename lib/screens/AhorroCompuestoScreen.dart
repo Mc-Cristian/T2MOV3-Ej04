@@ -12,7 +12,7 @@ class AhorroCompuestoScreen extends StatefulWidget {
 class _AhorroCompuestoScreenState extends State<AhorroCompuestoScreen> {
   final TextEditingController _ahorroMensualController = TextEditingController();
   final TextEditingController _cantidadMesesController = TextEditingController();
-  final TextEditingController _tasaInteresMensualController = TextEditingController(); // Opcional
+  final TextEditingController _tasaInteresMensualController = TextEditingController(); 
 
   double _ahorroTotal = 0.0;
   List<Map<String, double>> _detalleAhorro = [];
