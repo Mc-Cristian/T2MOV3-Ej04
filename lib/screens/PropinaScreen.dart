@@ -1,3 +1,12 @@
+//1.-Calculadora de Propinas para Restaurante
+//Desarrolla una aplicación que:
+//• Permita ingresar el monto total de la cuenta de un restaurante
+//Ofrezca opciones para seleccionar porcentaje de propina (10%, 15%, 20% o
+//personalizado)
+//• Calcule y muestre el monto de la propina y el total a pagar
+//• Incluya validación para asegurar que el monto ingresado sea numérico y positivo
+//• Muestre los resultados con formato de moneda
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:t2_ejercicios04_drawer/navigation/Drawer.dart';
